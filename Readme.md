@@ -15,7 +15,9 @@ You need to have Rhino 5.0 or newer installed.
 
 Download these files anywhere in the computer.
 
-Default folder for scripts on Windows is:
+Default folder for scripts:
+
+On Windows:
 ```C:\Users\{Username}\AppData\Roaming\McNeel\Rhinoceros\{Version}\scripts```
 
 On Mac:
@@ -37,7 +39,7 @@ See also the list of [contributors](https://github.com/your/project/contributors
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
 ## Acknowledgments
 
